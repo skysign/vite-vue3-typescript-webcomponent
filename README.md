@@ -1,14 +1,16 @@
 # ⚡Vite + Vue 3 + Typescript + Web Componet
 
 This is a boiler plate to show how to develop Web Component by using Vite + Vue 3 + typescript.
-Especially, it might be helpful to implement small part by using vue3 + typescript,
+
+Especially, it might be helpful to implement small part UI by using vue3 + typescript,
 while you work on big legacy web project.
 
 # How to run
 
 Please run steps below to run it as development mode.
 `````
-git clone repopath
+git clone https://github.com/skysign/vite-vue3-typescript-webcomponent.git
+cd vite-vue3-typescript-webcomponent
 npm install
 npm run dev
 `````
