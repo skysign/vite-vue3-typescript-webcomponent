@@ -29,6 +29,5 @@ You can see that html, js files are generated in './dist' folder.
 
 Please run simple web server to see how web component works in browser.
 `````
-cd ./dist
-npx http-server .
+npx http-server ./dist
 `````
