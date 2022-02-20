@@ -1,4 +1,4 @@
-# ⚡Vite + Vue 3 + Typescript + Web Componet
+# ⚡Vite + Vue 3 + Typescript + Web Component
 
 This is a boiler plate to show how to develop Web Component by using Vite + Vue 3 + typescript.
 
